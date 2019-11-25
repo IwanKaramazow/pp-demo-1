@@ -1,4 +1,1 @@
-
-
-
-let () = Js.log ("Hello, BuckleScript" ^ FILENAME)
+let () = Js.log (File2.txt ^ FILENAME)
